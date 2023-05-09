@@ -1,0 +1,24 @@
+/bert_model.h5
+/dtc_pickle
+/FInalised_spam_classification.ipynb
+/LinearRegression_model.sav
+/LinearSVC_model.sav
+/machine learning_algorithms-Copy1.ipynb
+/machine learning_algorithms-Copy2.ipynb
+/Naive_model.sav
+/nb_pickle
+/RandomForest_model.sav
+/rfc_pickle
+/svm_pickle
+/tweet.ipynb
+/dataset
+models/NN_movie_sentiment.hp5/variables/variables.index
+models/NN_movie_sentiment.hp5/variables/variables.data-00000-of-00001
+models/NN_movie_sentiment.hp5/saved_model.pb
+models/svm_pickle
+models/rfc_pickle
+models/nb_pickle
+models/dtc_pickle
+models/bert_model.h5
+models/bert_model (1).h5
+/models
